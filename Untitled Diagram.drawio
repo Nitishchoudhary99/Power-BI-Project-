@@ -1,19 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.2.14">
   <diagram name="Page-1" id="d2F022jsGiQBWwaXtlzM">
-    <mxGraphModel dx="786" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="419" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MIFq4Sk5JBAP3x7aosd7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MIFq4Sk5JBAP3x7aosd7-1" edge="1">
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MIFq4Sk5JBAP3x7aosd7-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="80" as="targetPoint" />
+            <mxPoint x="150" y="30" as="sourcePoint" />
+            <mxPoint x="220" y="20" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIFq4Sk5JBAP3x7aosd7-1" value="Toyota" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF51E5);" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="90" height="30" as="geometry" />
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MIFq4Sk5JBAP3x7aosd7-1" target="MIFq4Sk5JBAP3x7aosd7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="20" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MIFq4Sk5JBAP3x7aosd7-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="80" width="90" height="30" as="geometry" />
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MIFq4Sk5JBAP3x7aosd7-1" target="MIFq4Sk5JBAP3x7aosd7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MIFq4Sk5JBAP3x7aosd7-1" value="Sales Forecasting" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF51E5);" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MIFq4Sk5JBAP3x7aosd7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="130" />
+              <mxPoint x="91" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MIFq4Sk5JBAP3x7aosd7-5" value="MRP RUN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FHH-O4Gub8ImZBgawP6F-19" target="MIFq4Sk5JBAP3x7aosd7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FHH-O4Gub8ImZBgawP6F-19" target="FHH-O4Gub8ImZBgawP6F-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-19" value="Sales Manager / BA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="213" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FHH-O4Gub8ImZBgawP6F-28" target="FHH-O4Gub8ImZBgawP6F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-28" value="Judgmental Forecast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=light-dark(#36393d, #8000ff);" vertex="1" parent="1">
+          <mxGeometry x="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FHH-O4Gub8ImZBgawP6F-31" target="FHH-O4Gub8ImZBgawP6F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-31" value="Data Driven Forecast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FHH-O4Gub8ImZBgawP6F-46" target="MIFq4Sk5JBAP3x7aosd7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHH-O4Gub8ImZBgawP6F-46" value="PPC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="213" y="75" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
