@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.2.14">
   <diagram name="Page-1" id="d2F022jsGiQBWwaXtlzM">
-    <mxGraphModel dx="2490" dy="906" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="604" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-9" value="&lt;div&gt;Goods Receival&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="351" y="338" width="117" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rkx_-XdEIzTe-H4lfaEv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkx_-XdEIzTe-H4lfaEv-11" target="rkx_-XdEIzTe-H4lfaEv-12">
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkx_-XdEIzTe-H4lfaEv-11" target="rkx_-XdEIzTe-H4lfaEv-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-11" value="GRN Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
@@ -188,13 +188,37 @@
           <mxGeometry x="208" y="524" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-26" value="Receive FG Goods" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="208" y="563" width="130" height="26" as="geometry" />
+          <mxGeometry x="201.5" y="598" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkx_-XdEIzTe-H4lfaEv-30" target="FHH-O4Gub8ImZBgawP6F-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-30" value="Delivery &amp;amp; Distribution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="201.5" y="611" width="143" height="26" as="geometry" />
+          <mxGeometry x="201.5" y="637" width="143" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkx_-XdEIzTe-H4lfaEv-37" target="rkx_-XdEIzTe-H4lfaEv-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="390" />
+              <mxPoint x="663" y="384" />
+              <mxPoint x="715" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-37" value="Incoming Quality Inspection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="390" width="169" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkx_-XdEIzTe-H4lfaEv-40" target="rkx_-XdEIzTe-H4lfaEv-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="585" />
+              <mxPoint x="306" y="578" />
+              <mxPoint x="267" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-40" value="FG Quality Inspection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="351" y="572" width="143" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
