@@ -178,6 +178,9 @@
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-19" value="Receive Material from Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="208" y="429" width="182" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkx_-XdEIzTe-H4lfaEv-22" target="rkx_-XdEIzTe-H4lfaEv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-22" value="Follow the PPC Plan " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
           <mxGeometry x="208" y="468" width="143" height="26" as="geometry" />
         </mxCell>
@@ -219,6 +222,9 @@
         </mxCell>
         <mxCell id="rkx_-XdEIzTe-H4lfaEv-40" value="FG Quality Inspection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="351" y="572" width="143" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rkx_-XdEIzTe-H4lfaEv-42" value="In-Process Quality Inspection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="383" y="468" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
